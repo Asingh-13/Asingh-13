@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asingh-13
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Machine Learning / Front end development 
+- 🌱 I’m currently learning React
 - 📫 How to reach me 9549530813, uic.21mci1128@gmail.com
 
 <!---
